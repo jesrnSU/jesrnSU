@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesrnSU
 - 👀 I’m interested in mostly backend dev and system architecture
 - 🌱 I’m currently learning EVERYTHING
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Vibecoding at Cloudflare
 - 📫 How to reach me: Message me on github!
 
 <!---

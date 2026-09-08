@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesrnSU
 - 👀 I’m interested in mostly backend development and system architecture
-- 🌱 I’m currently learning VIM
+- 🌱 I’m currently learning VIM and improving my knowledge on devops-tools
 - 📫 How to reach me: Message me on github!
 
 <!---

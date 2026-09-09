@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesrnSU
 - 👀 I’m interested in mostly backend development and system architecture
-- 🌱 I’m currently learning VIM and improving my knowledge on devops-tools
+- 🌱 I’m currently reading "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy" by Vlad Khononov.
 - 📫 How to reach me: Message me on github!
 
 <!---

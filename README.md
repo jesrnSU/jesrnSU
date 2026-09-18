@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @jesrnSU
-- 👀 I’m interested in mostly backend development and system architecture
-- 🌱 I’m currently reading "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy" by Vlad Khononov.
-- 📫 How to reach me: Message me on github!
-
-- Studying for AI-200 Cert right now.
+- I’m currently reading "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy" by Vlad Khononov.
+- And studying for AI-200 Cert right now.
 
 <!---
 jesrnSU/jesrnSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
